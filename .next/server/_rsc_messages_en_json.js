@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_messages_en_json";
+exports.ids = ["_rsc_messages_en_json"];
+exports.modules = {
+
+/***/ "(rsc)/./messages/en.json":
+/*!**************************!*\
+  !*** ./messages/en.json ***!
+  \**************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"nav":{"home":"Home","products":"Products","dashboard":"Dashboard","admin":"Admin","login":"Login","logout":"Logout","cart":"Cart","orders":"Orders"},"auth":{"clientId":"Client ID","password":"Password","signIn":"Sign In","signOut":"Sign Out","invalidCredentials":"Invalid credentials","accessDenied":"Access denied","welcome":"Welcome to Lamenagere"},"products":{"title":"Our Products","category":"Category","categories":{"detergents":"Detergents","cleaningSupplies":"Cleaning Supplies","household":"Household Items","all":"All Products"},"price":"Price","stock":"Stock","available":"Available","outOfStock":"Out of Stock","lowStock":"Low Stock","addToCart":"Add to Cart","viewDetails":"View Details","specifications":"Specifications","description":"Description","brand":"Brand","origin":"Origin","size":"Size"},"cart":{"title":"My Cart","empty":"Your cart is empty","quantity":"Quantity","total":"Total","checkout":"Checkout","removeItem":"Remove Item","updateQuantity":"Update Quantity"},"orders":{"title":"My Orders","orderNumber":"Order Number","date":"Date","status":"Status","total":"Total","viewOrder":"View Order","status_pending":"Pending","status_confirmed":"Confirmed","status_shipped":"Shipped","status_delivered":"Delivered","status_cancelled":"Cancelled"},"admin":{"dashboard":"Admin Dashboard","products":"Product Management","orders":"Order Management","clients":"Client Management","inventory":"Inventory Management","addProduct":"Add Product","editProduct":"Edit Product","deleteProduct":"Delete Product","productName":"Product Name","productDescription":"Product Description","productPrice":"Product Price","productCategory":"Product Category","productImages":"Product Images","stockLevel":"Stock Level","saveProduct":"Save Product","uploadImages":"Upload Images","dragDropImages":"Drag and drop your images here or click to select","clientName":"Client Name","clientId":"Client ID","clientStatus":"Client Status","addClient":"Add Client","editClient":"Edit Client"},"common":{"loading":"Loading...","save":"Save","cancel":"Cancel","delete":"Delete","edit":"Edit","add":"Add","search":"Search","filter":"Filter","clear":"Clear","submit":"Submit","back":"Back","next":"Next","previous":"Previous","yes":"Yes","no":"No","confirm":"Confirm","success":"Success","error":"Error","warning":"Warning","info":"Information"},"company":{"name":"Lamenagere","tagline":"Specialist in imported home products","description":"Discover our selection of high-quality imported household products"}}');
+
+/***/ })
+
+};
+;
