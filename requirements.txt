@@ -1,0 +1,39 @@
+# Lamenagere Website - System Requirements
+# =====================================
+
+# SYSTEM REQUIREMENTS
+Node.js >= 18.17.0
+npm >= 9.0.0 (or pnpm >= 8.0.0 recommended)
+Git >= 2.20.0
+
+# PRODUCTION DEPENDENCIES (automatically installed via package.json)
+next@^14.2.16
+react@^18.3.1  
+react-dom@^18.3.1
+tailwindcss@^3.4.14
+next-intl@^3.22.0
+bcryptjs@^2.4.3
+jose@^5.9.6
+multer@^1.4.5-lts.1
+sharp@^0.33.5
+
+# RADIX UI COMPONENTS
+@radix-ui/react-*@^1.1.0+
+
+# DEVELOPMENT DEPENDENCIES
+typescript@^5.6.3
+@types/node@^22.10.1
+@types/react@^18.3.12
+autoprefixer@^10.4.21
+eslint@^8.57.1
+
+# INSTALLATION COMMANDS
+# npm install (or pnpm install)
+
+# VERIFICATION
+# npm run build
+# npm run start
+
+# LOGIN CREDENTIALS
+# Admin: ADMIN001 / password
+# Client: CLIENT001 / password
